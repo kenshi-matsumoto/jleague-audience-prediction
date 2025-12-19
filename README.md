@@ -11,7 +11,7 @@
 ## 2. 使用技術・アルゴリズム
 * **言語**: Python
 * **モデル**: Gradient Boosting (勾配ブースティング)
-* **主なライブラリ**: pandas, scikit-learn 等
+* **主なライブラリ**: pandas, scikit-learn, LightGBM 等
 
 ## 3. ディレクトリ構成とファイル説明
 
